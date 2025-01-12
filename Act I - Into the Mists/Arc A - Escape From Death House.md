@@ -79,32 +79,38 @@ This is **Death House.**
 # A2. Death House
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
 
-<div class="description">
-<p>Highharvesttide in Daggerford. It’s a time of joy and celebration, of hearth and home, of golden laughter ringing out into the night. But tonight, as a storm has swept over the town, you find yourselves apart from the warmth and revelry, drawn into the cold, dark embrace of mystery.</p>
-<p>As mercenaries, you're no strangers to danger or the unknown. But this—this is different. Over the past few weeks, whispers have spread throughout Daggerford of disappearances: ordinary folk, vanished without a trace.</p>
-<p>The only connection? A grand, old manor, known in hushed tones as “Death House.”</p>
-<p>Tonight, as the storm rages outside, you've been summoned to investigate this mysterious dwelling. The town crier’s proclamation still echoes in your ears, a bounty for any brave souls who dare to uncover the truth. Driven by a mix of greed, curiosity, and perhaps a touch of bravado, you stepped forward.</p>
-<p>Now, guided by the faint glow of your lanterns, you traverse the slick, fog-shrouded cobblestone streets. The distant merriment is a stark contrast to the eerie quiet around you. The world has been reduced to hushed whispers and the steady drumming of rain, a somber serenade to your perilous journey.</p>
-<p>And then, as if answering an unspoken summons, the mists before you part, revealing the grim silhouette of your destination: the “Death House.” Its dark, stone façade and towering spires loom ominously against the storm-tossed sky, a wordless challenge against your resolve.</p>
-</div>
+>Hocherntefest in Daggerford. Eine Zeit der Freude und des Feierns, von Heim und Herd und von schallendem Lachen, das in die Nacht hinaus hallt. Doch heute Abend, während ein Sturm über die Stadt tobt, findet ihr euch fernab von der Wärme der Festlichkeiten wieder – hineingezogen in die kalte, dunkle Umarmung eines Geheimnisses.
+>
+>Als Söldner seid ihr Gefahren und dem Unbekannten nicht fremd. Doch das hier – das ist anders. In den letzten Wochen ging ein Flüstern durch Daggerford: Menschen verschwinden. Ganz gewöhnliche Leute, spurlos.
+>
+>Die einzige Verbindung ist ein altes Herrenhaus, das in gedämpften Tönen das „Todeshaus“ genannt wird.
+>
+>Heute Nacht, während der Sturm draußen wütet, wurdet ihr herbeigerufen, um dieses unheimliche Anwesen zu untersuchen. Die Worte des Stadtausrufers hallen noch in euren Köpfen: Ein Kopfgeld für jede mutige Seele, die sich gewappnet fühlt, die Wahrheit ans Licht zu bringen. Getrieben von einer Mischung aus Gier, Neugierde und vielleicht einer Prise Übermut habt ihr euch gemeldet.
+>
+>Nun durchquert ihr, geführt vom schwachen Licht eurer Laternen, die glitschigen, vom Nebel verschleierten Kopfsteinpflasterstraßen. Das ferne Gelächter und der Klang der Feierlichkeiten stehen in starkem Kontrast zu der gespenstischen Stille, die sich nun um euch niederlegt. Die Welt ist geschrumpft auf leises Flüstern und das stetige Trommeln des Regens – eine düstere Serenade zu eurem gefährlichen Weg.
+>
+>Und dann, wie auf einen stummen Ruf hin, lichtet sich der Nebel vor euch. Euer Ziel wird erkennbar: das „Todeshaus“. Die dunkle Steinfassade und die hoch aufragenden Türme zeichnen sich bedrohlich gegen den sturmgepeitschten Himmel ab, eine wortlose Prüfung eures Mutes.
 
 ## A2a. The Arrival
 ### Entrance
-<span class="citation"><em>This scene takes place in Appendix B: Area 1.</em></span>
+This scene takes place in [[DnD 5e Fluch des Strahd Deutsch.pdf#page=213&selection=178,0,178,7|EINGANG]].
 
 Read all players the following text:
 
-<div class=description>
-<p>A grand manor stands before you, four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs forming a picture of austere, chilling grandeur. Midway up, a narrow balcony juts out from the third floor, offering a grim perch from which to survey the surrounding grounds.</p>
-<p>The centerpiece of this imposing facade is the portico, a stone arch standing sentinel before the house's oaken doors. A wrought-iron gate fills this arch, its rusty hinges creaking as it sways in the wind.</p>
-<p>On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.</p>
-<p>Beyond the gate, a set of sturdy oaken doors stand closed, framed by the gate and the lamps. The doors are old and weathered, their wood darkened by time, but they stand strong and proud—an unwelcome entrance to the house beyond.</p>
-<p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
-</div>
+> Ein prächtiges Herrenhaus erhebt sich vor euch, vier Stockwerke hoch, aus kaltem, rußgeschwärztem Stein. Schmale, hohe Fenster und spitz zulaufende Dächer formen ein Bild strenger, frostiger Erhabenheit. In der Mitte der Fassade ragt ein schmaler Balkon aus dem dritten Stock hervor – ein düsterer Aussichtspunkt, von dem aus man das umliegende Gelände überblicken kann.
+>
+> Das Herzstück dieser einschüchternden Front ist der Portikus: ein steinerner Bogen, der vor den hölzernen Türen des Hauses Wache steht. Ein schmiedeeisernes Tor versperrt den Durchgang, seine rostigen Angeln ächzen und knarren leise im Wind.
+>
+> Zu beiden Seiten des Tors hängen Öllampen an Ketten. Ihr Licht ist schwach und flackert unruhig. Sie werfen einen kränklichen Schein, der den Nebel kaum durchdringt.
+>
+> Hinter dem Tor ragen die massiven Eichenholztüren des Hauses hinauf, eingerahmt von dem Gitter und den Lampen. Die Türen sind alt und vom Zahn der Zeit gezeichnet; ihr Holz ist dunkel und verwittert. Doch sie strahlen eine unerschütterliche Standhaftigkeit aus – ein unheilvolles Tor zu dem, was dahinter liegt.
+>
+> Ein Windstoß fährt an euch vorbei, begleitet von einem Hauch kalten Unheils, der einen Schauer über euren Rücken jagt.
 
 Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
-The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
+The entrance beyond the portico is otherwise as described in CoS:
+![[DnD 5e Fluch des Strahd Deutsch.pdf#page=213&rect=456,61,749,556|CoS, p.213]]
 
 > [!lore]+ **Strahd & the Cult**
 >
