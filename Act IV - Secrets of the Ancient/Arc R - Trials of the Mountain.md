@@ -1812,7 +1812,7 @@ A player who succeeds on a DC 12 Wisdom (Survival) check discerns that the footp
 
 ***The Sigil of the Morninglord.*** A thin layer of white lichen covers much of the wall around the sigil of the Morninglord.
 
-***The Three-Pointed Star.*** A player that has previously seen the monuments to the Ladies three in [[Arc C - Into the Valley]] (near Old Bonegrinder), [[Arc I - The Walls of Krezk]] or [[Arc M - The Dragon's Manor]] (near Berez), or [[Arc J - The Stolen Gem]] (near the Wizard of Wines) recognizes the three-pointed star as the same symbol engraved into each monument. (A player also recognizes the symbol if they possess the [[Character Creation#Harmony—The Stone Crest|the stone crest]] Barovian relic, which bears the same mark.)
+***The Three-Pointed Star.*** A player that has previously seen the monuments to the Ladies three in [[Arc C - Into the Valley]] (near Old Bonegrinder), [[Arc I - The Walls of Krezk]] or [[Arc M - The Dragon's Manor]] (near Berez), or [[Arc J - The Stolen Gem]] (near the Wizard of Wines) recognizes the three-pointed star as the same symbol engraved into each monument. (A player also recognizes the symbol if they possess the [[Charaktererstellung#Harmony—The Stone Crest|the stone crest]] Barovian relic, which bears the same mark.)
 
 Unlike the sigil of the Morninglord, no lichen covers the star or the carvings around it. The nine carvings that encircle the star of the Ladies Three include the following stylized animal features: an eight-pointed web (spider), a curved fang (wolf), a feather (raven), a thick, rounded paw (bear), an antler (elk), a spiral horn (goat), an eye with a slitted, elliptical pupil (mountain lion), an avian foot with a hooked claw and talons (hawk), and two peaked tufts (owl).
 
@@ -1826,7 +1826,7 @@ A player who succeeds on a DC 13 Intelligence (Nature) check can correctly match
 > If the Mountain Folk Kalaris, Zia, or Corylla are present, they swiftly tap the correct sequence using the blunt edges of their spears or greataxes, respectively. They then beckon the players toward the secret door beneath the waterfall.
 
 > [!abstract]+ **The Stone Crest**
-> If a player is carrying the [[Character Creation#Harmony—The Stone Crest|the stone crest]] Barovian relic, it emits a low hum, releasing a scent of pine needles and earthy soil. As it does, a faint viridian light emits from the carving upon its surface. If the player shines the light onto the animal carvings, the web, fang, and feather seem to shimmer beneath its glow.
+> If a player is carrying the [[Charaktererstellung#Harmony—The Stone Crest|the stone crest]] Barovian relic, it emits a low hum, releasing a scent of pine needles and earthy soil. As it does, a faint viridian light emits from the carving upon its surface. If the player shines the light onto the animal carvings, the web, fang, and feather seem to shimmer beneath its glow.
 ### The Amber-Touched
 When the players have begun making progress in solving the puzzle of the shrine, but before they’ve come to a solution, read:
 

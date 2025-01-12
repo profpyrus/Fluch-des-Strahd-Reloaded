@@ -1,4 +1,4 @@
-# Setting Expectations
+# Setting Erwartungen
  Before beginning the campaign, you should establish the following expectations with your players:
 
 * ***Tone***. This will be a heroic fantasy adventure in a dark fantasy/gothic horror setting. Your character should be a hero, or have the potential to swiftly become a hero when faced with a life-or-death situation. Be prepared to cooperate and collaborate with the other players in order to succeed.
