@@ -79,7 +79,7 @@ This is **Death House.**
 # A2. Death House
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Lost in the Mists]] hook, read the following text. Otherwise, proceed to [[#A2a. The Arrival]] below.
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Hocherntefest in Daggerford. Eine Zeit der Freude und des Feierns, von Heim und Herd und von schallendem Lachen, das in die Nacht hinaus hallt. Doch heute Abend, während ein Sturm über die Stadt tobt, findet ihr euch fernab von der Wärme der Festlichkeiten wieder – hineingezogen in die kalte, dunkle Umarmung eines Geheimnisses.
 >
 >Als Söldner seid ihr Gefahren und dem Unbekannten nicht fremd. Doch das hier – das ist anders. In den letzten Wochen ging ein Flüstern durch Daggerford: Menschen verschwinden. Ganz gewöhnliche Leute, spurlos.
@@ -98,7 +98,7 @@ This scene takes place in [[DnD 5e Fluch des Strahd Deutsch.pdf#page=213&selecti
 
 Read all players the following text:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 > Ein prächtiges Herrenhaus erhebt sich vor euch, vier Stockwerke hoch, aus kaltem, rußgeschwärztem Stein. Schmale, hohe Fenster und spitz zulaufende Dächer formen ein Bild strenger, frostiger Erhabenheit. In der Mitte der Fassade ragt ein schmaler Balkon aus dem dritten Stock hervor – ein düsterer Aussichtspunkt, von dem aus man das umliegende Gelände überblicken kann.
 >
 > Das Herzstück dieser einschüchternden Front ist der Portikus: ein steinerner Bogen, der vor den hölzernen Türen des Hauses Wache steht. Ein schmiedeeisernes Tor versperrt den Durchgang, seine rostigen Angeln ächzen und knarren leise im Wind.
@@ -112,7 +112,7 @@ Read all players the following text:
 Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
 The entrance beyond the portico is otherwise as described in CoS:
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Ein schmiedeeisernes Tor, mit Angeln auf der einen und einem Schloss auf der anderen Seite, füllt den Torbogen eines Steinportikus (Bereich lA). Das Tor ist nicht verschlossen, und seine rostigen Angeln kreischen, wenn das Tor geöffnet wird. Öllampen hängen an Ketten von der Decke des Portikus und flankieren ein Paar Eichentüren, die sich in ein großes Foyer öffnen (Bereich lB).
 >An der Südwand des Foyers hängt ein Schild, auf dem ein Wappen prangt (eine stilisierte goldene Windmühle auf rotem Grund), und der von gerahmten Portraits von Aristokraten mit steinernen Mienen flankiert wird (lange verstorbene Mitglieder der Familie Durst). Doppeltüren mit Mahagonirahmen führen aus dem Foyer in den Hauptflur (Bereich 2A), in sie sind Scheiben mit Glasmalereien eingelassen.
 
@@ -127,7 +127,7 @@ The entrance beyond the portico is otherwise as described in CoS:
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a Kuckucksuhr, which is placed in the circular space at the base of the stairs.
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Ein breiter Flur (Bereich 2A) verläuft über die Breite des Hauses, mit einem schwarzen Marmorkamin an einem Ende und einer geschwungenen roten Marmortreppe am anderen. An der Wand über dem Kamin hängt ein Langschwert (nicht-magisch) mit einer ins Heft eingearbeiteten Kamee einer Windmühle. Die holzvertäfelten Wände sind kunstvoll mit Schnitzereien von Ranken, Blumen, Nymphen und Satyrn verziert. Charaktere, die die Wände nach Geheimtüren absuchen oder die Vertäfelung anderweitig inspizieren, können mit einem gelungenen Wurf auf Weisheit (Wahrnehmung) gegen SG 12 Schlangen und Schädel sehen, die unauffällig in die Wandverzierungen eingewoben wurde n. Die dekorative Vertäfelung folgt der Treppe, während sie sich nach oben in den ersten Stock schraubt.
 >In einer Garderobe (Bereich 2B) hängen mehrere schwarze Mäntel von Haken an den Wänden. Ein Zylinderhut liegt auf einem hohen Regalbrett.
 
@@ -140,7 +140,7 @@ Shortly after all of the characters enter the main hall, the front door slams sh
 
 Bloody letters then begin appearing on the southern wall, just above the marmortreppen. They read as follows:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >In den Tiefen laufert ein Ungetüm
 >dass sich nach blutigem Festmahl sehnt
 >Er schläft bis die Mitternachtsleuten klingen
@@ -207,7 +207,7 @@ für die Feier des Jahrestags der Durst Mühle.
 ### A2b.3 Wolfsgrube
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Dieser eichenvertäfelte Raum sieht aus wie das Trophäenzimmer eines Jägers. Über dem Kamin ist ein Hirschkopf befestigt und an den Wänden des Raums sind drei ausgestopfte Wölfe verteilt.
 >
 >Zwei mit Tierfellen behängte Polstersessel stehen vor dem Kamin, mit einem Eichentisch dazwischen, der ein Weinfässchen trägt, zwei geschnitzte Holzkelche, einen Pfeifenständer und einen Armleuchter. Ein Kronleuchter hängt über einem Tisch mit Tischtuch, der von vier Stühlen umgeben ist.
@@ -217,12 +217,12 @@ für die Feier des Jahrestags der Durst Mühle.
 
 This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Als du die Tür einen Spalt öffnest, siehst du etwas in der Dunkelheit dahinter: ein bernsteinfarbenes Auge blitz in der Dunkelheit, und eine bestialische Schnauze verzieht sich zu einem fauchen.
 
 If the players proceed, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Die Tür öffnet sich, und dahinter liegt ein grauer Wolf, der wie gefroren scheint. Es dauert einen Moment, bis du verstehst, dass er sich nicht bewegen wird, weil er gestopft - und noch einen bevor du merkst, dass er nicht allein ist.
 >
 >Der mit mehr Eichenpanelen versehene Raum wirkt wie eine Jägerhütte. Über dem Kamin hängt ein Hirschkopf, und an den entfernten Wänden stehen zwei weitere Wölfe - ein großer, grauer und ein kleinerer, brauner Wolf.
@@ -241,7 +241,7 @@ A player that succeeds on a DC 12 Intelligence (Nature) check can identify the l
 
 Players that approach this door can hear the dumpfen Geräusche eines lebhaften Festmahls: klingende Gläser, leises Lachen, und entfernte Unterhaltungen. If the players open or knock on the door, however, the room falls silent, leaving only the stillness and the cold grandeur of the room beyond.
 
->[!tip] Beschreibung
+>[!tip]+ Beschreibung
 >Das Zentralstück dieses holzvertäfelten Speisezimmers ist ein geschnitzter Mahagonitisch, der von acht hochlehnigen Stühlen mit gemeißelten Armlehnen und gepolsterten Sitzen umgeben ist. Ein Kristalllüster hängt über dem Tisch, der mit prachtvollem Tafelsilber und Kristallgläsern bedeckt ist, die blankpoliert sind. Über dem Marmorkamin ist ein Gemälde eines Hochgebirgstals in einem Mahagonirahmen angebracht.
 >
 >In die Wandvertäfelung sind elegante Abbilder von Rehen zwischen den Bäumen geschnitzt. Charaktere, die die Wände nach Geheimtüren absuchen oder die Vertäfelung anderweitig inspizieren, können mit einem gelungenen Wurf auf Weisheit (Wahrnehmung) gegen SG 12 in die Baumstämme geschnitzte, verzerrte Gesichter und Wölfe, die unter dem geschnitzten Blattwerk lauern, erkennen.
@@ -250,7 +250,7 @@ Players that approach this door can hear the dumpfen Geräusche eines lebhaften 
 
 This room is largely as described in <span class="citation">Dining Room (p. 213)</span>. When the players enter it, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Ihr betretet einen holzgetäfelten Speisesaal. Im Zentrum des Raumes steht ein kunstvoll geschnitzter Mahagonitisch, umgeben von acht Stühlen mit hohen Rückenlehnen, verziertenArmlehnen und gepolsterten Sitzen. Über dem Tisch hängt ein funkelnder Kristallleuchter, der das aufwendig gedeckte Besteck und die kristallklaren Gläser in einem schillernden Glanz erstrahlen lässt. Über dem Marmorkamin prangt ein mahagonigerahmtes Gemälde eines alpinen Tals.
 >
 >Die Wandtäfelung ist mit eleganten Schnitzereien geschmückt, die Hirsche inmitten von Bäumen zeigen. Rote Seidengardinen verhüllen die Fenster, und ein Wandteppich hängt an einer eisernen Stange, die in die Südwand eingelassen wurde.
@@ -261,7 +261,7 @@ A player who partakes in the food suffers no ill effects.
 ### A2b.4 Kitchen and Pantry
 <span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >
 >Die Küche (Bereich 4A) ist ordentlich, Geschirr, Kochtöpfe und Utensilien säuberlich auf Regalen platziert. Auf einem Arbeitstisch liegen ein Schneidbrett und ein Nudelholz. Ein steinerner, kuppelförmiger Ofen steht nahe der Ostwand, sein gebogenes eisernes Ofenrohr mit einem Loch in der Decke verbunden. Hinter dem Ofen links befindet sich eine schmale Tür, die zu einer gutgefüllten Vorratskammer führt (Bereich 4B).
 >
@@ -269,7 +269,7 @@ A player who partakes in the food suffers no ill effects.
 
 This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Ihr betretet eine aufgeräumte Küche, in der Geschirr, Kochutensilien und Besteck ordentlich auf Regalen verstaut sind. Auf einem Arbeitstisch liegen ein Schneidebrett und ein Nudelholz. An der Ostwand steht ein steinerner, kuppelförmiger Ofen, dessen gebogenes Eisenrohr in ein Loch in der Decke mündet. Links hinter dem Ofen befindet sich eine schmale Tür.
 
 If the players inspect the cookware, they find that the largest kitchen knife is missing.
@@ -288,7 +288,7 @@ Ein Spieler, der in den Topf schaut, findet darin eine Flasche Wein, ein gefalte
 
 If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
 #### A2b.4b Stummer Diener
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Hinter der kleinen Tür in der Südwestecke der Küche befindet sich ein Stummer Diener - ein 60 cm breiter Steinschacht, der einen hölzernen, an einem einfachen Mechanismus aus Seil und Flaschenzug befestigten Aufzugskasten enthält, der per Hand bewegt werden muss. Der Schacht führt zu den Bereichen 7A (den Gesindekammern) und 12A (dem Hauptschlafzimmer). An der Wand neben dem Speiseaufzug hängt eine winzige Messingglocke, die mittels Drähten mit Knöpfen in diesen beiden Bereichen verbunden ist.
 >
 >Ein kleiner Charakter kann sich mit einem gelungenen Wurf auf Geschicklichkeit (Akrobatik) gegen SG 10 in den Aufzugskasten quetschen. Der Flaschenzugmechanismus des Speiseaufzugs kann 200 Pfund Gewicht tragen, bevor das Seil reißt.
@@ -298,7 +298,7 @@ If the players read the note, one of the knives in the kitchen flies off of its 
 <span class="citation"><em>This scene takes place in Appendix B: Area 6.</em></span>
 
 
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Erloschene Öllampen sind an den Wänden dieses eleganten Flurs befestigt. Über dem Kaminsims hängt ein in Holz gerahmtes Porträt der Familie Durst: Gustav und Elisabeth mit ihren zwei lächelnden Kindern, Rose und Dorn. Der Vater wiegt einen in Windeln gewickelten Säugling in seinen Armen, den die Mutter mit einem Hauch von Verachtung betrachtet.
 >
 >Stehende Rüstungen flankieren Holztüren in den Ost- und Westwänden.Jede Rüstung hält einen Speer umklammert und trägt einen Visierhelm in Form eines Wolfskopfes. In die Türen sind tanzende Jugendliche geschnitzt, obwohl eine genaue Betrachtung und ein gelungener Wurf auf Weisheit (Wahrnehmung) gegen SG 12 offenbaren, dass die Jugendlichen nicht wirklich tanzen, sondern sich gegen Schwärme von Fledermäusen zur Wehr setzen.
@@ -307,7 +307,7 @@ If the players read the note, one of the knives in the kitchen flies off of its 
 
 This room is largely as described in <span class="citation">Upper Hall (p. 213)</span>. When the players enter this room, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Erloschene Öllampen sind an den Wänden dieses eleganten Flurs angebracht. Über dem Kaminsims hängt ein Langschwert, dessen Griff mit einem Windmühlenrelief verziert ist.
 >
 >Zu beiden Seiten der hölzernen Türen in den Ost- und Westwänden stehen gepanzerte Rüstungen. Jede Rüstung hält eine Lanze und trägt einen mit Visier versehenen Helm in Form eines Wolfskopfes. Die Türen zwischen ihnen sind mit geschnitzten Abbildungen tanzender Jugendlicher verziert.
@@ -316,12 +316,12 @@ This room is largely as described in <span class="citation">Upper Hall (p. 213)<
 ### A2b.7 Zimmer der Diener
 <span class="citation"><em>This scene takes place in Appendix B: Area 7.</em></span>
 
->[!important] Beschreibung
+>[!important]+ Beschreibung
 >Eine schmucklose Schlafkammer (Bereich 7A) enthält zwei Betten mit strohgefüllten Matratzen. Am Fuß jedes Bettes steht eine leere Kleidertruhe. Ordentliche Dienerlivreen hängen von Haken im angrenzenden Wandschrank (Bereich 7B).
 
 This room is largely as described in <span class="citation">Servants’ Room (p. 213)</span>. When the players enter this room, read:
 
-> [!cite] Vorlesen
+> [!cite]+ Vorlesen
 > Dieses schmucklose Schlafzimmer enthält zwei Betten mit strohgefüllten Matratzen. Am Fußende jedes Bettes steht eine geschlossene Truhe. Eine Tür zur Linken scheint in einen Wandschrank zu führen.
 > 
 > In der rechten Ecke des Raumes befindet sich eine kleine Holztür, neben der ein Metallknopf in die Wand eingelassen ist. Daneben steht ein Korb mit ungewaschener Wäsche, der offenbar dort zurückgelassen wurde.
@@ -329,31 +329,31 @@ This room is largely as described in <span class="citation">Servants’ Room (p.
 Der Korb enthält die Wäsche eines Mannes, darunter feine Anzüge, Tuniken, Krawatten, Hosen und Strümpfe. Doch darunter befindet sich ein einzelnes, deutlich kleineres Damenhöschen, das scheinbar versehentlich mit der übrigen Wäsche vermischt wurde.
 
 #### A2b.7b Stummer Diener
->[!tip] Beschreibung
+>[!tip]+ Beschreibung
 >Ein Speiseaufzug in der Ecke der Westwand besitzt einen Knopf an der Wand daneben. Wird der Knopf gedrückt, läutet die winzige Glocke in Bereich 4A.
 ### A2b.10 Wintergarten
 <span class="citation"><em>This scene takes place in Appendix B: Area 10.</em></span>
 
 Players that approach this door can hear the faint sound of a Cembalo playing from beyond the doors. If the players open or knock on the door, however, the music falls silent.
 
-> [!tip] Beschreibung
+> [!tip]+ Beschreibung
 > Hauchdünne Vorhänge bedecken die Fenster dieses elegant eingerichteten Saales, von dessen Decke ein mit Messing überzogener Kronleuchter hängt. Gepolsterte Sessel säumen die Wände, und Wandbehänge aus Glasmalereien stellen wunderschöne Männer, Frauen und Kinder dar, die singen und musizieren.
 > Ein Cembalo mit einer Sitzbank ruht in der Nordwestecke. Neben dem Kamin steht eine große Harfe. Alabasterfigürchen von gutgekleideten Tänzern schmücken den Kaminsims. Eine genaue Untersuchung offenbart, dass mehrere von ihnen Schnitzwerke gutgekleideter Skelette sind.
 
 This room is largely as described in <span class="citation">Conservatory (p. 214)</span>. When the players enter it, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Ihr betretet eine elegant eingerichtete Halle, deren Fenster von hauchzarten Vorhängen bedeckt sind. Ein mit Messing verkleideter Kronleuchter hängt von der Decke, und gepolsterte Stühle säumen die Wände.
 >
 >Mehrere Wandbehänge aus Buntglas zeigen wunderschöne Männer, Frauen und Kinder, die singen und Instrumente spielen. In der nordwestlichen Ecke steht ein Cembalo mit einer dazugehörigen Bank. In der Nähe des Kamins befindet sich eine große, frei stehende Harfe. Auf dem Kaminsims stehen Alabasterfiguren, die elegant gekleidete Tänzer darstellen.
 
 
->[!example] ***The Harpsichord.***
+>[!example]+ ***The Harpsichord.***
 >A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
 
 The parchment is a piece of handwritten sheet music for the harpsichord titled *Walzer für Klara*. If the sheet music is played on the harpsichord, read:
 
->[!cite] Vorlesen
+>[!cite]+ Vorlesen
 >Du beginnst das Stück zu spielen, und die Noten hallen durch den stillen, staubigen Raum, und eine eindringliche Melodie erfüllt die Luft. Während du weiter spielt, scheint die Musik ein Eigenleben zu entwickeln – deine Hände gleiten wie von einer unsichtbaren Kraft gelenkt über die Tasten.
 >
 >Am Rand des Raumes beginnen geisterhafte Gestalten sich zu materialisieren, die sich in einem gespenstischen Tanz drehen und wie von dem Lied geführt durch den Raum weben. Die meisten sind euch unbekannt, doch ihr könnt zwei bekannte Gesichter ausmachen: Elisabeth Durst, die in einer Ecke steht und beobachtet, wie Gustav mit einer wunderschönen jungen Frau in schlichten Kleidern tanzt.
