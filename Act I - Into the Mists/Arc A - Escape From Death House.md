@@ -370,23 +370,34 @@ Playing *Waltz for Klara* also causes the bookshelf in the [[#Library]] to swing
 ### Library
 <span class="citation"><em>This scene takes place in Appendix B: Area 8.</em></span>
 
+> [!tip] Beschreibung
+> Der Herr des Hauses verbrachte früher viele Stunden hier, bevor er dem Wahnsinn anheimfiel.
+> >Rote Samtvorhänge bedecken die Fenster dieses Raums. Ein exquisiter Mahagonischreibtisch und ein passender hochlehniger Stuhl sind zum Eingang und zum Kamin gedreht, über dem ein gerahmtes Bild einer Windmühle hängt, die auf einer felsigen Klippe thront. In Ecken des Raums stehen zwei dick gepolsterte Sessel. Deckenhohe Bücherregale säumen die Südwand. Eine rollende Holzleiter erlaubt es, die hohen Regalbretter einfacher zu erreichen.
+> 
+> Auf dem Schreibtisch ruhen mehrere Gegenstände: eine Öllampe, ein Tintenfass, eine Schreibfeder, ein Zunderkästchen und eine Schreibausrüstung, die eine rote Wachskerze enthält, sowie vier leere Blätter Pergament und ein hölzernes Siegel, das die Insignien der Familie Durst trägt (eine Windmühle). Die Schreibtischschublade ist leer, bis auf einen eisernen Schlüssel, der die Tür zu Bereich 20 öffnet. Die Bücherregale enthalten Hunderte von Folianten , die ein breites Spektrum von Themen abdecken, einschließlich Geschichte, Kriegskunst und Alchimie. Es gibt auch mehrere Regalbretter, die Erstausgaben gesammelter Werke aus Lyrik und Prosa enthalten. Die Bücher verrotten und zerfallen, wenn sie aus dem Haus entfernt werden
+
 This room is largely as described in <span class="citation">Library (p. 213-14)</span>. When the players enter this room, read:
 
-<div class="description">
-<p>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. </p>
-<p>Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</p>
-</div>
+> [!cite] Vorlesen
+> Rote Samtvorhänge bedecken die Fenster dieses Raumes. Ein erlesener Mahagonischreibtisch und ein dazu passender hochlehniger Stuhl sind auf den Eingang und den Kamin ausgerichtet, über dem ein gerahmtes Bild hängt, das eine Windmühle auf einem felsigen Vorsprung zeigt.
+> 
+> In den Ecken des Raumes stehen zwei üppig gepolsterte Sessel.
+> 
+> Bodenhohe Bücherregale säumen die Südwand, und eine rollbare Holzleiter ermöglicht es, die oberen Regalbretter leichter zu erreichen.
 
 ***The Desk.*** A handwritten note sits atop the desk. It reads:
 
-<div class="description">
-<p>Dear Mr. and Mrs. Durst,</p>
-<p>In light of my current condition, I respectfully ask your leave for a brief time away from my responsibilities. </p>
-<p>While my devotion to your dear children makes this decision difficult, I have taken it upon myself to find a solution that, I hope, will serve your household well. A good acquaintance of mine is experienced in the care of children, and I believe that she could assume my role during my temporary leave without difficulty.</p>
-<p>I realize that my request is not without its complications. However, my years serving your family have shown me the depth of your understanding and compassion. I truly feel that I have become a part of this family, and I look forward to bringing another member of that family into this world.</p>
-<p>Yours sincerely,</p>
-<p>Klara</p>
-</div>
+>[!example]+ Die Notiz
+>Sehr geehrter Herr und Frau Durst,
+>
+>in Anbetracht meines derzeitigen Zustands bitte ich respektvoll um Ihre Erlaubnis, meine Pflichten für kurze Zeit niederzulegen.
+>
+>Obgleich mir diese Entscheidung aufgrund meiner Hingabe zu Ihren lieben Kindern schwerfällt, habe ich es mir zur Aufgabe gemacht, eine Lösung zu finden, die Ihrem Haushalt dienen wird. Eine gute Bekannte von mir ist erfahren in der Betreuung von Kindern, und ich bin überzeugt, dass sie während meiner vorübergehenden Abwesenheit ohne Schwierigkeiten meine Rolle übernehmen könnte.
+>
+>Mir ist bewusst, dass meine Bitte mit gewissen Unannehmlichkeiten verbunden ist. Doch meine Jahre im Dienst Ihrer Familie haben mir die Tiefe Ihres Verständnisses und Ihrer Güte gezeigt. Ich fühle mich wahrlich als Teil dieser Familie und freue mich darauf, ein weiteres Mitglied dieser Familie auf die Welt zu bringen.
+>
+>Mit aufrichtigem Gruß,  
+Klara
 
 The top drawer of the desk now contains a number of receipts for candles, daggers, and incense, rather than the key to [[#Children’s Room]].
 
@@ -398,6 +409,9 @@ A character that searches the room for 1 minute and succeeds on a DC 15 Wisdom (
 
 ***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
 
+> [!example] Die Geheimtür
+> Eine Geheimtür hinter einem Bücherregal kann aufgeschlossen und geöffnet werden, indem man einen Schalter zieht, der als Buch mit rotem Umschlag und unbeschriftetem Rücken getarnt ist. Ein Charakter, der das Bücherregal inspiziert, bemerkt das falsche Buch mit einem gelungenen Wurf auf Weisheit (Wahrnehmung) gegen SG 13. Solange die Geheimtür nicht aufgekeilt wird, lassen Sprungfedern sie von selbst wieder zufallen. Hinter der Geheimtür liegt Bereich 9.
+
 Once the bookshelf has been moved, the players can see a small panel made of dark wood behind it, built into the wall at approximately chest level. A small hollow niche, jagged and irregular, lies at the panel's center and emanates a faint amber glow. 
 
 The door cannot be opened unless the amber shard from the [[#Master Suite]] is placed into the niche or a player plays *Waltz for Klara* on the harpsichord in the [[#Conservatory]]. The secret door then swings open, allowing the players to enter the [[#Secret Room]].
@@ -406,19 +420,25 @@ The door cannot be opened unless the amber shard from the [[#Master Suite]] is p
 
 This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
 
-<div class="description">
-<p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
-</div>
+> [!tip]+ Beschreibung
+> Dieser Geheimraum enthält Bücherregale vollgepackt mit Folianten, die Unholde herbeirufende und nekromantische Rituale eines Kultes, genannt die Priester von Osybus, beschreiben. Die Rituale sind gefälscht, was jeder Charakter feststellen kann, nachdem er die Bücher für 1 Stunde studiert und einen erfolgreichen Wurf auf Intelligenz (Arkane Kunde) gegen SG 12 abgelegt hat.
+> 
+> Eine schwere Holztruhe mit klauenförmigen Eisenfüßen steht an der Südwand, ihr Deckel halb geschlossen. Aus der Truhe hängt ein Skelett in Lederrüstung heraus. Eine genaue Untersuchung offenbart, dass das Skelett einem Menschen gehörte, der eine Giftpfeilfalle ausgelöst hat. Drei Pfeile stecken in Rüstung und Brustkorb des toten Abenteurers. Der Auslösemechanismus der Pfeile in der Truhe funktioniert nicht mehr. In der linken Hand umklammert das Skelett einen Brief, den der Abenteurer aus der Truhe entfernen wollte und der das Siegel von Strahd von Zarowitsch trägt.
+
+> [!example]+ Inhalt der Kiste
+> Die Truhe enthält drei leere Bücher mit schwarzen Ledereinbänden (je 25 GM wert), drei Zauberschriftrollen (Segnen, Schutz vor Gift und Waffe des Glaubens), die Eigentumsurkunde des Hauses und ein unterzeichnetes Testament. Das Testament ist von Gustav und Elisabeth Durst unterzeichnet und vermacht das Haus, die Windmühle und alles andere Familieneigentum im Fall des Todes ihrer Eltern an Rosawalda und Dornboldt Durst. Die Bücher, Schriftrollen und das Testament werden merklich altern, wenn sie aus dem Haus entfernt werden, aber intakt bleiben.
 
 The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
 
-<div class="description">
-<p>My most pathetic servant,</p>
-<p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
-<p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
-<p>Your dread lord and master,</p>
-<p>Strahd von Zarovich</p>
-</div>
+> [!example]+ Der Brief
+> Mein erbärmlichster Diener,
+> 
+> ich bin kein Messias, der Euch von den Dunklen Mächten dieses Landes gesandt wurde. Ich bin nicht gekommen, Euch auf einem Pfad der Unsterblichkeit zu führen. Wie viele Seelen auch immer Ihr auf Eurem verborgenen Altar ausgeblutet habt, wie viele Besucher auch immer Ihr in Eurem Gewölbe gefoltert habt, wisset, dass Ihr nicht diejenigen seid, die mich zu diesem wunderschönen Land gebracht haben. Ihr seid nichts als Würmer, die sich in meiner Erde winden.
+> 
+> Ihr sagt, Ihr wärt verflucht, Euer Vermögen ausgegeben. Euer Ehemann habe Trost am Busen einer anderen Frau gefunden und einen Bastard gezeugt, und ihr habet Liebe mit Wahnsinn getauscht. Von der Dunkelheit verflucht? Daran habe ich keinen Zweifel. Euch von Eurem Elend befreien? Ich denke nicht. Ich bevorzuge Euch sehr, wie Ihr seid.
+> 
+> Euer Schreckenslord und Meister
+> Strahd von Zarowitsch
 
 The players do not recognize the name "Strahd von Zarovich."
 
@@ -430,12 +450,20 @@ As the players ascend the spiral stairs to the third floor, remind them that the
 ### Balcony
 <span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
 
+> [!tip] Beschreibung
+> Charaktere, die die rote Marmortreppe ganz hinaufsteigen, kommen zu einer staubigen Empore mit einer schwarzen Ritterrüstung, die von Spinnweben verhüllt an einer Wand steht. Diese Belebte Rüstung greift an, sobald sie Schaden erleidet oder ein Charakter sich ihr bis auf 1,50 m nähert. Sie kämpft, bis sie zerstört wird.
+> 
+> Öllampen sind an den eichenvertäfelten Wänden befestigt, in die Waldszenen mit Bäumen, fallenden Blättern und winzigen Tierchen geschnitzt sind. Charaktere, die die Wände nach Geheimtüren absuchen oder die Vertäfelung anderweitig inspizieren, können mit einem gelungenen Wurf auf Weisheit (Wahrnehmung) gegen SG 12 winzige Leichname bemerken, die von den Bäumen hängen und Würmer, die aus dem Boden hervorbrechen.
+
+> [!example]+ Geheimtür
+> Eine Geheimtür in der Westwand kann mit einem gelungenen Wurf auf Weisheit (Wahrnehmung) gegen SG 15 gefunden werden . Sie lässt sich leicht aufdrücken und gibt den Blick auf eine Holztreppe voller Spinnweben frei, die ins Dachgeschoss hinaufführt.
+
 This room is largely as described in <span class="citation">Balcony (p. 214)</span>. When the players enter this room, read:
 
-<div class="description">
-<p>You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. </p>
-<p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
-</div>
+> [!cite]+ Vorlesen
+> Ihr steigt die rote Marmortreppe bis zu ihrem höchsten Punkt hinauf und erreicht einen staubigen Balkon. Die Luft hier ist trocken und muffig, jedoch von einem seltsamen, metallischen Kupfergeruch durchzogen.
+> 
+> An einer Wand steht eine schwarze Plattenrüstung, bedeckt von Spinnweben und gezeichnet vom Zahn der Zeit. An den verblassten, eichengemaserten Wandtäfelungen sind Öllampen angebracht. Die Täfelungen sind mit Waldszenen verziert: Bäume, herabfallendes Laub und winzige Tiere, die in die Muster eingearbeitet sind.
 
 When triggered, the **[[DnD 5e Monster Manual Deutsch.pdf#page=22|animated armor]]** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
 
@@ -454,22 +482,27 @@ A creature that is pushed over the edge of the balcony falls two stories, or twe
 
 When a player first approaches this door, read:
 
-<div class="description">
-<p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
-<p>Through the dusty haze that prickles your eyes , you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
-<p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
-<p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
-</div>
+> [!cite]+ Vorlesen
+> Diese imposanten Türen ragen hoch auf, ihre dunklen Holzrahmen umschließen zwei staubige Buntglasfenster. Jedes Fenster ist mit filigranen Mustern verziert, die Windmühlen darstellen – ihre einst leuchtenden Farben sind verblasst und von einer dicken Schicht Schmutz bedeckt.  
+> 
+> Durch den staubigen Schleier, der eure Augen reizt, erhascht ihr einen Blick auf etwas hinter dem Glas: eine Silhouette, die nur wenige Zentimeter hinter den Scheiben steht, von einem schwachen, bernsteinfarbenen Leuchten hinterleuchtet. Sie ist reglos und unbeweglich, doch allein ihr Anblick packt eure Muskeln wie in einem eisernen Griff. Eure Glieder verweigern den Befehlen eures Verstandes den Gehorsam.  
+> 
+> Die Luft um euch herum verdichtet sich, ihre Temperatur fällt auf eine knochenklirrende Kälte. Euer Atem beschlägt die Glasfenster, ein zarter Reif breitet sich über sie aus, während die entfernten Knarzer und Flüstertöne des Hauses von einer drückenden Stille verschluckt werden.  
+> 
+> Der Schatten hinter der Tür ist fast formlos – ungreifbar –, doch seine Präsenz ruft eine urtümliche Angst tief in euren Knochen hervor. Euer Herz schlägt schneller, Schweißperlen sammeln sich auf eurer Stirn, euer Puls rast durch eure Adern. Langsam beginnt die Silhouette, den Kopf in eure Richtung zu drehen.  
+> 
+> Und dann, ebenso plötzlich, wie sie erschienen ist, löst sich der Schatten auf. Die beißende Kälte schwindet, und die leisen Geräusche des Hauses kehren zurück.  
 
 This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:
 
-<div class="description">
-<p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
-<p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
-<p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
-</div>
+> [!cite]+ Vorlesen
+> Ihr betretet ein staubiges Hauptschlafzimmer, erfüllt von Spinnweben, mit burgunderfarbenen Vorhängen, die die Fenster verhüllen. In der Mitte des Raumes steht ein Himmelbett mit bestickten Vorhängen und zerfetzten, hauchdünnen Schleiern.
+> 
+> Eine Tür am Fußende des Bettes ist mit einem verblassten Ganzkörperspiegel versehen. In der rechten Ecke des Raumes steht eine kleine Holztür, deren Oberfläche halb von Alter und Verfall gezeichnet ist. Neben ihr ist ein angelaufener Metallknopf in die Wand eingelassen.
+> 
+> Vor dem Kamin liegt ein verrotteter Tigerfellteppich. Über dem Kamin hängt ein staubbedecktes Porträt, das den Mann und die Frau aus dem Gemälde im Erdgeschoss zeigt. In der südwestlichen Ecke des Raumes befindet sich ein von Spinnweben bedeckter kleiner Salon mit zwei Stühlen und einem Tisch, auf dem mehrere Gegenstände liegen. Dort führt außerdem eine Tür mit einem dunklen, schmutzbefleckten Fenster nach draußen.
+> 
+> Der Raum enthält zudem ein passendes Paar Kleiderschränke, einen gepolsterten Stuhl und einen Schminktisch mit einem Holzrahmenspiegel sowie einem silbernen Schmuckkästchen. Ein weiches, bernsteinfarbenes Licht scheint durch den leicht geöffneten Deckel des Kästchens hindurch.
 
 ***The Bed.*** A player that approaches the bed can see that a large, bloodstained kitchen knife has been driven into one of the pillows.
 
@@ -477,13 +510,16 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 
 A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
 
-<div class="description">
-<p>Drasha,</p>
-<p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
-<p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
-<p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
-<p>Elisabeth</p>
-</div>
+> [!example] Die Rolle
+> Drasha,
+> 
+> ich habe dich ausgewählt, um in meiner Abwesenheit die Hüterin des Ungeheuers zu sein. Sollte das Ungeheuer unruhig werden oder Anzeichen von Aufregung zeigen, während ich fort bin, habe ich diesen Bernsteinsplitter hinterlassen, um es zu schwächen und seinen Zorn zu besänftigen.
+> 
+> Sollte es notwendig sein, halte den Splitter empor und sprich den Namen des Ungeheuers; wenn du mit Überzeugung sprichst, wird es dir in meinem Namen gehorchen – doch nur für eine begrenzte Zeit. Verlass das Haus jedoch, bevor es um Mitternacht vollständig erwacht.
+> 
+> Solange das Ungeheuer atmet, ist es – und nicht du – das Herz dieses Hauses, und keine Mahlzeit wird jemals seinen Hunger stillen. Solltest du in seinem Reich verweilen, wird es euer aller Untergang sein.
+> 
+> Elisabeth
 
 See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more information about the amber shard.
 
@@ -491,17 +527,19 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 ### Bathroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
+> [!tip]+ Beschreibung
+> Dieser dunkle Raum enthält eine Holzwanne mit Klauenfüßen, einen kleinen eisernen Ofen, auf dem ein Kessel ruht und ein Fass unter einem Zapfhahn in der Ostwand. Eine Zisterne auf dem Dach sammelte früher Regenwasser, welches durch ein Rohr zum Zapfhahn getragen wurde; Die Leitungen funktionieren jedoch nicht länger.
+
 This room is as described in <span class="citation">Bathroom (p. 215)</span>.
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
 This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter it, read:
 
-<div class="description">
-<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
-</div>
+> [!cite]+ Vorlesen
+> Staubige Regale säumen die Wände dieses Raumes. Auf einigen der Regale liegen gefaltete Laken, Decken und alte Seifenstücke. An der gegenüberliegenden Wand lehnt ein mit Spinnweben bedeckter Besen.
 
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+When a player first approaches within 5 feet of the **broom of animated attack** ([[DnD 5e Fluch des Strahd Deutsch.pdf#page=227&offset=,,|Besen des belebten Angriffs: CoS, p.227]]), it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, verzichtet auf opportunity attacks against players that move away.
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
