@@ -437,7 +437,7 @@ This room is largely as described in <span class="citation">Balcony (p. 214)</sp
 <p>A suit of black plate armor stands against one wall, draped in cobwebs and marked by age. Oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.</p>
 </div>
 
-When triggered, the **animated armor** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
+When triggered, the **[[DnD 5e Monster Manual Deutsch.pdf#page=22|animated armor]]** will use one or both of its **_multiattack_** attacks to attempt to push a player over the railing using a ***shove*** attack, or attempt to grapple its nearest target before shoving them prone.
 
 If the armor is thrown down to the first floor and the players do not reveal their presence atop the balcony, it is unable to observe them with its sixty feet of blindsight, and is too stupid to think to climb back up. 
 
